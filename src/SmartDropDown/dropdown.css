@@ -1,0 +1,14 @@
+.showOptions{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color:#0e94dc;
+    text-decoration: underline;
+}
+.addButton{
+    border: 1px solid #0e94dc;
+    margin: 0px 15px;
+    padding: 5px 12px;
+    background: #0e94dc;
+    color: #fff;
+}
